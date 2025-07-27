@@ -1,3 +1,29 @@
+July 26,2025
+- Upgraded Security Patch
+- status bar brightness control
+- status bar ongoing progress chip
+- enable/disable quick settings swipe down on lockscreen
+- sidebar/freeform windows
+- lockscreen media art
+- fp unlock ripple/auth vibration
+- Fixed evolver crashing issues
+- Fixed RAM Management - source
+- Migrated from TARGET_INIT_VENDOR_LIB to soong_config_set,libinit,vendor_init_lib for Init - device
+- Improved Stability - source
+- Bug fixes
+
+June 27,2025
+- Updated to EvolutionX 11.0 Beta
+- Upgraded Security Patch
+- Improved Stability on device and source side
+- Hidden a few options from Evolver
+- BPF Patched kernel
+- Based on latest LineageOS 23.0
+- Based on Android 16
+- Removed Leica Camera
+- Removed Dolby Ready Support
+- Bug fixes
+
 June 15,2025
 - Updated to EvolutionX 10.7
 - June Security Patch
