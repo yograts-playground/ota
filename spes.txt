@@ -1,3 +1,9 @@
+August 24,2025
+- Upgraded Security Patch
+- Initial Official Build
+- Switched to Murali Kernel for better stability
+- Bug fixes
+
 July 26,2025
 - Upgraded Security Patch
 - status bar brightness control

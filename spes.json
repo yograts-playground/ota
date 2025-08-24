@@ -1,25 +1,24 @@
 {
   "response": [
     {
-      "maintainer": "Yogratdesuyo (Yograt or Miko or Tadalo~)",
+      "maintainer": "Yogratdesuyo",
+      "currently_maintained": true,
       "oem": "redmi",
       "device": "spes,spesn",
-      "filename": "EvolutionX-16.0-20250726-spes-11.0-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/yograt-builds/files/spes/stable/Evolution-X/Build-26-07-25/EvolutionX-16.0-20250726-spes-11.0-Unofficial.zip/download",
-      "timestamp": 1753493493,
-      "md5": "aa8ef2138c08e8da07a463192fb720ce",
-      "sha256": "de0accf534d0bfdeeac682ce28d89eb15fb1a354208ab55763dcfade5f8e2dc4",
-      "size": 2283639501,
-      "version": "11.0",
-      "buildtype": "Stable",
-      "forum": "https://t.me/yograttalks", 
-      "firmware": "-",
-      "paypal": "-",
-      "telegram": "https://t.me/yogratsupport",
-      "github": "Yograt",
-      "initial_installation_images": [
-        "Prepare to evolve! Unofficial OTA Support, brought to you by yogratbuilds"
-      ]
+      "filename": "EvolutionX-16.0-20250824-spes-11.1-Official.zip",
+      "download": "https://cdn.evolution-x.org/spes/16/EvolutionX-16.0-20250824-spes-11.1-Official.zip/download",
+      "timestamp": 1756007242,
+      "md5": "EB781AB3638D4F6077A02BB46BE6D40E",
+      "sha256": "1D6CDD406312EDEA8538B39AB690127E44B241A1792DA1C02B86C7B7BBE0BC12",
+      "size": 2301233867,
+      "version": "11.1",
+      "buildtype": "userdebug",
+      "forum": "https://xdaforums.com/t/evolutionx-official-yogratbuilds-spes-spesn.4756101/",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/yograts-playground",
+      "initial_installation_images": [],
+      "extra_images": []
     }
   ]
 }
