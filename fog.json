@@ -2,24 +2,25 @@
   "response": [
     {
       "maintainer": "Yogratdesuyo",
-      "oem": "redmi",
-      "device": "fog,rain,wind",
-      "filename": "EvolutionX-15.0-20250510-fog-10.6-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/yograt-builds/files/fog/EvolutionX/Build-03-08-25/EvolutionX-16.0-20250803-fog-11.0-Unofficial.zip/download",
-      "timestamp": 1754200503,
-      "md5": "d2e2de84c3fa1bd57dcebe71b7f305ec",
-      "sha256": "54d75df15927655dfd34ab264f94a7446238377998f3a87a05518ea8a592b9dd",
-      "size": 2169941091,
-      "version": "11.0",    
-      "buildtype": "Stable",
-      "forum": "-", 
-      "firmware": "-",
-      "paypal": "-",
-      "telegram": "https://t.me/yogratsupport",
-      "github": "Yograt",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "Redmi 10C",
+      "filename": "EvolutionX-16.0-20250920-fog-11.2-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/yograt-builds/files/fog/EvolutionX/Build-20-09-25/EvolutionX-16.0-20250920-fog-11.2-Unofficial.zip/download",
+      "timestamp": 1758362864,
+      "md5": "3fbfaff46e2dd6c1957f4f6cac7d9340",
+      "sha256": "b68c5cc01b8edec9cae5b13f3833fa4ff2185e72137a73cbd8504708d71525e5",
+      "size": 2210004637,
+      "version": "11.2",
+      "buildtype": "user",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "yograts-playground",
       "initial_installation_images": [
-        "Prepare to evolve! Unofficial OTA Support, brought to you by yogratbuilds"
-      ]
+        "boot"
+      ],
+      "extra_images": []
     }
   ]
 }

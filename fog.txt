@@ -1,3 +1,9 @@
+September 25, 2025
+- Upgraded security Patch
+- Return of a few features
+- Latest kernel prebuilts
+- Bug fixes
+
 August 03, 2025
 - status bar brightness control
 - status bar ongoing progress chip
