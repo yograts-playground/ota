@@ -1,3 +1,11 @@
+November 04, 2025
+- Upgraded security Patch
+- Updated to EvolutionX 11.3
+- Switched to common QCOM AIDL bootctrl HAL
+- Make SurfaceFlinger latch all buffers unsignaled
+- Reverted move input surface to CCodec
+- Bug fixes
+
 September 25, 2025
 - Upgraded security Patch
 - Return of a few features
