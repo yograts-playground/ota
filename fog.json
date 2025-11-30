@@ -1,22 +1,22 @@
 {
   "response": [
     {
-      "maintainer": "Yogratdesuyo",
+      "maintainer": "AloozChips",
       "currently_maintained": true,
       "oem": "Xiaomi",
       "device": "Redmi 10C",
-      "filename": "EvolutionX-16.0-20250920-fog-11.2-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/yograt-builds/files/fog/EvolutionX/Build-31-10-25/EvolutionX-16.0-20251031-fog-11.3-Unofficial.zip/download",
-      "timestamp": 1761940848,
-      "md5": "fcdb90719f486b57146e19b883b74a44",
-      "sha256": "5eefe94ff2c322f6a251e2d55e6e8df42ef581abdbcd9eb49e8fc5dac1d83e70",
-      "size": 2359438214,
-      "version": "11.3",
+      "filename": "EvolutionX-16.0-20251130-fog-11.5-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/aloozchips-builds/files/EvoX/fog-wind-rain/EvolutionX-16.0-20251130-fog-11.5-Unofficial.zip/download",
+      "timestamp": 1764481570,
+      "md5": "a683c97059219b8e3ce4d2150201e874",
+      "sha256": "bc125ed2733a5a3ad23a5f36110ca6057530d96ed595d5f65fe558c1dcd1d83b",
+      "size": 2598254708,
+      "version": "11.5",
       "buildtype": "user",
       "forum": "",
       "firmware": "",
       "paypal": "",
-      "github": "yograts-playground",
+      "github": "AloozChips",
       "initial_installation_images": [
         "boot"
       ],
