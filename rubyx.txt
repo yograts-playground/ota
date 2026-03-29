@@ -9,6 +9,7 @@ Notes:
 Device changes:
 ==============================
 - Update to Evolution X 11.6.2
+- Fixed transition lag
 
 Notable ROM changes:
 ==============================
