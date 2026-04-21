@@ -2,14 +2,14 @@ This is Android 16 QPR2 with April 2026 security patches
 
 Notes:
 ==============================
-- LineageOS-based source. Signed build.
+- LineageOS-based source.
 - Clean flash mandatory when your build is from Evolution X 11.5.x or lower
 - Custom OTA Included
 
 Device changes:
 ==============================
-- Update to Evolution X 11.6.3
-- Minor bug fixes
+- Fixed laggy animation when opening setting page
+- Random bug fixes
 
 Notable ROM changes:
 ==============================
